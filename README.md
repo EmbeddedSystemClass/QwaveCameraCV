@@ -1,16 +1,18 @@
 # QwaveCameraCV
 
 LabVIEW Camera Driver library for Raspberry Pi 3B/3B+/3A+.
-
+ 
 ![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-08.png)
-
+ 
+![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-09.png)
+ 
 [**QwaveCameraCV**](https://github.com/QWaveSystems/QwaveCameraCV) is a additional functions for camera driver. It is a peripheral VIs provides enhance functions over LINX 3.0 standard library.
 
-with QwaveCameraCV library you can aquired image or video from camera then processsing using OpenCV (C++) or NI-VISION functions under Raspberry Pi 3B/3B+/3A+ boards.
+with QwaveCameraCV library you can aquired image or video from camera then processsing using OpenCV (C/C++) or NI-VISION toolkit under Raspberry Pi 3B/3B+/3A+ boards.
 
 ![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-01.png)
 
-QwaveCameraCV package is required [LINX 3.0](http://sine.ni.com/nips/cds/view/p/lang/en/nid/212478) driver to deploy the code and run under Raspberry Pi board (ARMv7 Linux enviromnent).
+QwaveCameraCV package is required [LINX 3.0](http://sine.ni.com/nips/cds/view/p/lang/en/nid/212478) driver to deploy the code and run under Raspberry Pi (ARMv7 Linux enviromnent).
 
 The [**LINX 3.0**](https://github.com/MakerHub/LINX/tree/master/LabVIEW) library is created by MakerHub
 and maintain the support at [labviewmakerhub.com](https://www.labviewmakerhub.com/doku.php?id=libraries:linx:start).
@@ -21,8 +23,7 @@ and maintain the support at [labviewmakerhub.com](https://www.labviewmakerhub.co
 
 You can get started with the [LabVIEW 45-Day Evaluation](http://ftp.ni.com/support/softlib/labview/labview_development_system/2014%20SP1/2014sp1LV-WinEng.exe) and buy LabVIEW 2014 SP1 Home Edition to using with Raspberry Pi 3B, 3B+ and 3A+.
 
-
-
+Please note: To run QwaveCameraCV you need a run-time license. To get such a license please contact : amornthep@qwavesys.com
 
 
 text
