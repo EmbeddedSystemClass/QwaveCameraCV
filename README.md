@@ -53,8 +53,9 @@ text
 ------------------------------------------------------------------
 
 -Raspberry Pi™ is a registered trademark of the Raspberry Pi foundation.
+
 -LINX 3.0 for Raspberry Pi 2B/3B create by `www.labviewmakerhub.com` (LabVIEW 2014 only,***Non-commercial use)
--WiringPi is a GPIO access library based on BCM2835 library used in the Raspberry Pi. It’s released under the GNU LGPLv3 license created by Gordon Henderson. `(http://wiringpi.com/)`
+
 -OpenCV is released under a BSD license and hence it’s free for both academic and commercial use. `(http://opencv.org/)`
 
 ------------------------------------------------------------------
