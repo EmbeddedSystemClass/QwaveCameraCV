@@ -17,7 +17,7 @@ and maintain the support at [labviewmakerhub.com](https://www.labviewmakerhub.co
  
 ![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-10.png)
 
-QwaveCameraCV and LINX 3.0 for Raspberry Pi is works with LabVIEW 2014 SP1 only (Home/Student/Base.) and it FREE to use for Non-commercial purpose.It is great platfrom for student and home users to experience with LabVIEW under 3rd party hardware.
+**LINX 3.0** for Raspberry Pi is works with LabVIEW 2014 SP1 only (Home/Student/Base.) and it **FREE** to use for Non-commercial purpose.It is great platfrom for student and home users to experience with LabVIEW under 3rd party hardware.
 
 You can get started with the [LabVIEW 45-Day Evaluation](http://ftp.ni.com/support/softlib/labview/labview_development_system/2014%20SP1/2014sp1LV-WinEng.exe) and buy LabVIEW 2014 SP1 Home Edition to using with Raspberry Pi 3B, 3B+ and 3A+.
 
