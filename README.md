@@ -4,7 +4,7 @@ QwaveCameraCV is a LabVIEW Camera Driver library for Raspberry Pi 3B/3B+
 
 text
 
-![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-0000.png0)
+![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-0000.png)
 
 text
 
