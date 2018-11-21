@@ -4,8 +4,6 @@ LabVIEW Camera Driver library for Raspberry Pi 3B/3B+/3A+.
  
 ![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-08.png)
  
-![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-09.png)
- 
 [**QwaveCameraCV**](https://github.com/QWaveSystems/QwaveCameraCV) is a additional functions for camera driver. It is a peripheral VIs provides enhance functions over LINX 3.0 standard library.
 
 with QwaveCameraCV library you can aquired image or video then processsing using [**OpenCV**](https://opencv.org/) or [**NI-VISION**](http://www.ni.com/vision/software/vdm/) toolkit under Raspberry Pi 3B/3B+/3A+ boards.
