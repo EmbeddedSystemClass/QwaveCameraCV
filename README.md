@@ -44,7 +44,7 @@ text
 
 text
 
-![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-00.png)
+![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-10.png)
 
 text
 
