@@ -15,11 +15,13 @@ with QwaveCameraCV library you can aquired image or video then processsing using
 The [**LINX 3.0**](https://github.com/MakerHub/LINX/tree/master/LabVIEW) library is created by Digilent/LabVIEW MakerHubMakerHub
 and maintain the support at [labviewmakerhub.com](https://www.labviewmakerhub.com/doku.php?id=libraries:linx:start).
 
-**LINX 3.0** for Raspberry Pi is works with **LabVIEW 2014 SP1** only (Home/Student/Base.) and it **FREE** to use for Non-commercial purpose.It is great platfrom for student and home users to experienced with LabVIEW under 3rd party low cost single board computer.
+**LINX 3.0** for Raspberry Pi is works with **LabVIEW 2014 SP1** only (Home/Student/Base.) and it's **FREE** to use for Non-commercial purpose.
 
-You can get started with the [LabVIEW 45-Day Evaluation](http://ftp.ni.com/support/softlib/labview/labview_development_system/2014%20SP1/2014sp1LV-WinEng.exe) or buy LabVIEW 2014 SP1 Home Edition to use with Raspberry Pi 3B, 3B+ and 3A+.
+It is great platfrom for student and home users to experienced with LabVIEW under 3rd party low cost single board computer.
 
-Please note: To run QwaveCameraCV you need a run-time license. To get such a license please contact : amornthep@qwavesys.com
+You can get started with the [LabVIEW 45-Day Evaluation](http://ftp.ni.com/support/softlib/labview/labview_development_system/2014%20SP1/2014sp1LV-WinEng.exe) or buy [**LabVIEW 2014 SP1 Home**](https://store.digilentinc.com/labview-home-bundle/) at Digilent website to use with Raspberry Pi 3B, 3B+ and 3A+.
+
+Please note: To run QwaveCameraCV you need a run-time license. To get such a license please contact: amornthep@qwavesys.com
  
 ![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-10.png)
 
