@@ -25,53 +25,43 @@ Please note: To run QwaveCameraCV you need a run-time license. To get such a lic
  
 ![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-10.png)
 
-text
+**Installation**
+
+1.Download and Install **"qwave_cameracv_raspberrypi-xx.xx.vip"** using VIPM (VI Package Manager).
 
 ![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-00.png)
 
-text
+2.After installed you can find functions under **Vision and Motion > QwaveCameraCV** palette.
 
 ![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-01.png)
 
-text
+3.The example project is located at "C:\Program Files (x86)\National Instruments\LabVIEW 2014\examples\QwaveCameraCV". Open "QwaveCameraCV-License_Check.lvproj"
 
 ![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-02.png)
 
-text
+4.Run the "License Check.vi" to get the board id.
 
 ![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-03.png)
 
-text
-
 ![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-04.png)
 
-text
+5.Create a empty file, renamed to "qwaveopencv.lic" and put the activation code insite file. and upload to Raspberry Pi at directory "/home/pi/qwaveopencv.lic"
 
 ![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-05.png)
 
-text
-
 ![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-06.png)
 
-text
+6.Run the "License Check.vi" again.
 
 ![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-07.png)
 
-text
+7.Run the "Camera_Test.vi"
 
 ![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-08.png)
 
-text
 
 ![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-09.png)
 
-text
-
-![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-10.png)
-
-text
-
-![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-11.png)
 
 ------------------------------------------------------------------
 
