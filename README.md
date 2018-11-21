@@ -1,6 +1,9 @@
 # QwaveCameraCV
 
 LabVIEW Camera Driver library for Raspberry Pi 3B/3B+/3A+.
+
+Generic USB 2.0 camera and [Raspberry Pi camera module (CSI)](https://www.raspberrypi.org/products/camera-module-v2/) are supported.
+![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-12.png)
  
 ![](http://ftp.qwavesys.com/tmp_pics/QwaveCameraCV-08.png)
  
